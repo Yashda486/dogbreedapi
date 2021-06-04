@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/dogbreedapi/static/css/main.2b63afc7.chunk.css",
+    "main.js": "/dogbreedapi/static/js/main.9b2fe320.chunk.js",
+    "main.js.map": "/dogbreedapi/static/js/main.9b2fe320.chunk.js.map",
+    "runtime-main.js": "/dogbreedapi/static/js/runtime-main.c88ecd39.js",
+    "runtime-main.js.map": "/dogbreedapi/static/js/runtime-main.c88ecd39.js.map",
+    "static/css/2.74c02967.chunk.css": "/dogbreedapi/static/css/2.74c02967.chunk.css",
+    "static/js/2.e7267ad1.chunk.js": "/dogbreedapi/static/js/2.e7267ad1.chunk.js",
+    "static/js/2.e7267ad1.chunk.js.map": "/dogbreedapi/static/js/2.e7267ad1.chunk.js.map",
+    "static/js/3.e38b543f.chunk.js": "/dogbreedapi/static/js/3.e38b543f.chunk.js",
+    "static/js/3.e38b543f.chunk.js.map": "/dogbreedapi/static/js/3.e38b543f.chunk.js.map",
+    "index.html": "/dogbreedapi/index.html",
+    "static/css/2.74c02967.chunk.css.map": "/dogbreedapi/static/css/2.74c02967.chunk.css.map",
+    "static/css/main.2b63afc7.chunk.css.map": "/dogbreedapi/static/css/main.2b63afc7.chunk.css.map",
+    "static/js/2.e7267ad1.chunk.js.LICENSE.txt": "/dogbreedapi/static/js/2.e7267ad1.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/dogbreedapi/static/media/Dog.772c0dd0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c88ecd39.js",
+    "static/css/2.74c02967.chunk.css",
+    "static/js/2.e7267ad1.chunk.js",
+    "static/css/main.2b63afc7.chunk.css",
+    "static/js/main.9b2fe320.chunk.js"
+  ]
+}
