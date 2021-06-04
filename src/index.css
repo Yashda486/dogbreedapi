@@ -5,9 +5,25 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+body{
+  
+  background: url("Dog.jpg");
+  background-size: 1450px 1000px;
+  background-repeat: no-repeat;
+}
+.aquas{
+  color:darkgreen;
+  opacity: 1;
+  
+}
+.aquase{
+  color: black;
+  
 }
